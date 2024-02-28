@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <!-- BOTONES INICIO-->
+    <string name="jugar">Jugar</string>
+    <string name="confi">Configuracion</string>
+    <string name="contacto">Contacto</string>
+    <string name="salir">Salir</string>
+</resources>
